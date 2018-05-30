@@ -1,8 +1,7 @@
 @font-face {
-    font-family: ‘weblysleekuisl’;
-    src: url('https://cdn.rawgit.com/giryer/MyWebfonts/blob/master/weblysleekuisl.eot'), 
-url('https://cdn.rawgit.com/giryer/MyWebfonts/blob/master/weblysleekuisl.svg'),
-url('https://cdn.rawgit.com/giryer/MyWebfonts/blob/master/weblysleekuisl.woff');
+    font-family: 'weblysleekuisl';
+    src:url('https://cdn.rawgit.com/giryer/MyWebfonts/5f9b5538/weblysleekuisl.woff') format('woff'), 
+            url('https://cdn.rawgit.com/giryer/MyWebfonts/5f9b5538/weblysleekuisl.woff2') format('woff2');
 
 font-weight: normal;
 font-style: normal
